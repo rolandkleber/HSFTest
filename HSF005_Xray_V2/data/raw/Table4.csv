@@ -1,0 +1,17 @@
+#: table_doi: 10.17182/hepdata.66456.v1/t4
+#: name: Table 4
+#: description: The fitted elastic cross section parameters. The quoted systematic (sys) errors are from
+the uncertainties in the T dependence, normalization and luminosity, respectively.:.
+
+#: data_file: Table4.yaml
+#: keyword reactions: P P --> P P
+#: keyword observables: SIG | DSIG/DT | SLOPE
+#: keyword phrases: Elastic | Integrated Cross Section | Cross Section | Single Differential Cross Section | Proton-Proton Elastic Scattering | Proton-Proton Scattering | Proton-Proton Elastic Cross Section | Proton-Proton Elastic Differential Cross Section
+#: keyword cmenergies: 7000.0
+#: RE,P P --> P P
+#: SQRT(S) [GeV],7000.0
+YN,,stat +,stat -,sys_1 +,sys_1 -,sys_2 +,sys_2 -,sys_3 +,sys_3 -,sys +,sys -
+D(SIG)/DT(T=0) IN MB/GEV**2,506.4,0.9,-0.9,8.6,-8.6,6.1,-6.1,20.4,-20.4,0,0
+SLOPE IN GEV**-2,19.89,0.03,-0.03,0,0,0,0,0,0,0.27,-0.27
+SIG IN MB,25.43,0.03,-0.03,0.1,-0.1,0.31,-0.31,1.02,-1.02,0,0
+

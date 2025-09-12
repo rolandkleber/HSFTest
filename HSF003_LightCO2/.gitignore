@@ -1,0 +1,7 @@
+# Keep caches out; keep your work in
+__pycache__/
+*.pyc
+.venv/
+.env
+.vscode/
+.idea/

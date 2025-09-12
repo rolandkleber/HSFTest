@@ -1,0 +1,2 @@
+https://uv-vis-spectral-atlas-mainz.org/uvvis/cross_sections/Carbon-oxides/CO2_Yoshino(1996)_195K_121-172nm(absolute).txt
+https://uv-vis-spectral-atlas-mainz.org/uvvis/cross_sections/Carbon-oxides/CO2_LewisCarver(1983)_370K_121-193nm.txt

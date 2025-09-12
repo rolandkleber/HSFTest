@@ -1,0 +1,32 @@
+{
+  "nu0_cm^-1": 7181.155657,
+  "isolated_line": true,
+  "nearest_line_distance_cm^-1": 0.03305000000000291,
+  "gamma_ref_cm^-1@Tref": 0.0997,
+  "n_exp_from_HITRAN": 0.76,
+  "exponents_by_pressure": [
+    {
+      "P_atm": 0.2,
+      "doppler_exp_fit": 0.4882085086930564,
+      "expected_doppler": 0.5,
+      "lorentz_exp_fit": -0.7584370172106716,
+      "expected_lorentz": -0.76
+    },
+    {
+      "P_atm": 0.5,
+      "doppler_exp_fit": 0.5198411122891204,
+      "expected_doppler": 0.5,
+      "lorentz_exp_fit": -0.7611491740053322,
+      "expected_lorentz": -0.76
+    },
+    {
+      "P_atm": 1.0,
+      "doppler_exp_fit": 0.5210154937783464,
+      "expected_doppler": 0.5,
+      "lorentz_exp_fit": -0.760995601689058,
+      "expected_lorentz": -0.76
+    }
+  ],
+  "pressure_slope_fit_gamma_vs_P_at_Tmid": 0.08774901112661584,
+  "expected_pressure_slope_at_Tmid": 0.08777789160120972
+}

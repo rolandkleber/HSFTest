@@ -1,0 +1,15 @@
+id: HSF001_Sun
+status: GO
+seed: 1729
+owner: roland
+data_dir_env: HSF_DATA_DIR        # lokale Datenbasis
+sources:                           # gespiegelt in OPEN_DATA_SOURCES.json
+  - url: https://...
+    filename: eovsa_2021_...h5
+    sha256: "..."
+inclusion_rules:
+  snr_min: 10
+  window_margin_factor: 2.5
+pass_fail:
+  delta_bic_min: 6.0
+  symmetry_abs_max: 0.05

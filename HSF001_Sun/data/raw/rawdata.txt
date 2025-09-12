@@ -1,0 +1,3 @@
+https://www.ngdc.noaa.gov/stp/space-weather/solar-data/solar-features/solar-radio/noontime-flux/palehua/
+pale_noontime-flux_2018.txt
+pale_noontime-flux_2025.txt

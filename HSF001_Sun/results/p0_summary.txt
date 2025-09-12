@@ -1,0 +1,16 @@
+Quiet-Sun 10th-percentile spectrum (sfu):
+    245 MHz : 9.90 sfu
+    410 MHz : 24.00 sfu
+    610 MHz : 33.00 sfu
+   1415 MHz : 45.00 sfu
+   2695 MHz : 62.00 sfu
+   4995 MHz : 104.00 sfu
+   8800 MHz : 210.00 sfu
+  15400 MHz : 486.90 sfu
+
+Thin-regime slope (>= 4995 MHz): alpha = 1.37  (R=0.998, stderr=0.08, n=3)
+245 MHz suppression ratio (obs / interp 410–610): 0.41
+-> Interpreted cutoff at 245 MHz: fp=245 MHz, ne≈7.44e+08 cm^-3
+
+2.695 GHz excess over continuum: -4.09 sfu
+Implied B if gyro-resonant: s=2 -> ~481 G, s=3 -> ~321 G

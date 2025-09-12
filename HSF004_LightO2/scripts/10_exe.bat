@@ -1,0 +1,1 @@
+python 10kk_check.py

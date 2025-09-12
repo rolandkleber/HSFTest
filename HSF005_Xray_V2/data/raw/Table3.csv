@@ -1,0 +1,17 @@
+#: table_doi: 10.17182/hepdata.66456.v1/t3
+#: name: Table 3
+#: description: The fitted slope parameter for the elastic cross section fitted over 4 |T| ranges.
+
+#: data_file: Table3.yaml
+#: keyword reactions: P P --> P P
+#: keyword observables: SLOPE
+#: keyword phrases: Elastic | Proton-Proton Elastic Scattering | Proton-Proton Scattering
+#: keyword cmenergies: 7000.0
+#: RE,,,P P --> P P
+#: SQRT(S) [GeV],,,7000.0
+ABS(T) [GEV**2],ABS(T) [GEV**2] LOW,ABS(T) [GEV**2] HIGH,SLOPE [GEV**-2],stat +,stat -,sys +,sys -
+0.052500000000000005,0.005,0.1,19.96,0.04,-0.04,0.22,-0.22
+0.10250000000000001,0.005,0.2,19.89,0.02,-0.02,0.27,-0.27
+0.060000000000000005,0.02,0.1,19.93,0.05,-0.05,0.21,-0.21
+0.11,0.02,0.2,19.87,0.03,-0.03,0.33,-0.33
+

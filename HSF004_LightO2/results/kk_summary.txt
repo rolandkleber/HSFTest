@@ -1,0 +1,6 @@
+File: O2_Bogumil(2003)_293K_235-389nm.txt
+Uniform grid points: 10984
+Optimal scale s ≈ 0.975
+RMS mismatch ≈ 1.324e-03
+|corr(κ, KK)| ≈ 0.990
+Tip: crop to a single hump (e.g., 135–185 nm) if edges still dominate.

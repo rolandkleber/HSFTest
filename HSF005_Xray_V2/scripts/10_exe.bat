@@ -1,0 +1,1 @@
+python 10pp_forward_fit.py --in ..\data\raw --out ..\results --tmax 0.12 --rho 0.14

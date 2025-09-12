@@ -1,0 +1,6 @@
+File: CO2_LewisCarver(1983)_370K_121-193nm.txt
+Uniform grid points: 2048
+Optimal scale s ≈ 0.981
+RMS mismatch ≈ 3.211e-03
+|corr(κ, KK)| ≈ 0.989
+Tip: crop to a single hump (e.g., 135–185 nm) if edges still dominate.

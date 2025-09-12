@@ -1,0 +1,1 @@
+https://uv-vis-spectral-atlas-mainz.org/uvvis_data/cross_sections/Oxygen/O2_Bogumil(2003)_293K_235-389nm.txt
